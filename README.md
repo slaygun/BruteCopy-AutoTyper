@@ -2,9 +2,9 @@
 BruteCopy - An <ins>autotyper</ins> made in Python with additonal features and modern GUI to make your data entry work simpler and faster.
 
 Contents-
-* https://github.com/slaygun/BruteCopy-AutoTyper#setup
-* https://github.com/slaygun/BruteCopy-AutoTyper#features
-* https://github.com/slaygun/BruteCopy-AutoTyper#keyboard-shortcuts
+- #setup
+- #features
+- #keyboard-shortcuts
 
 ![BruteCopy on Linux](https://github.com/slaygun/BruteCopy-AutoTyper/blob/master/screenshots/brutecopyonlinux.png)
 
