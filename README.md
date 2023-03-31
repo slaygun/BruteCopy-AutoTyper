@@ -31,5 +31,6 @@ Run File-
 | Ctrl+Y | Redo |   
 | Ctrl+A | Select All|
 | Ctrl+Tab | Remove Indentation |
+| Ctrl+X | Quit |
 
 Note: Ctrl+Tab removes indentation for the whole file unless a certain part is selected.
