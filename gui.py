@@ -67,7 +67,7 @@ class App(customtkinter.CTk):
 
 
     def callback(self):
-        webbrowser.open_new_tab("https://github.com/slaygun")
+        webbrowser.open_new_tab("https://github.com/slaygun/BruteCopy-AutoTyper")
 
 
     def type_func(self):
