@@ -30,4 +30,6 @@ Run File-
 | Ctrl+Z | Undo | 
 | Ctrl+Y | Redo |   
 | Ctrl+A | Select All|
-| Ctrl+Tab | Remove Indentation (If text selected only removes for that part otherwise removes for whole text)|
+| Ctrl+Tab | Remove Indentation |
+
+Note: Ctrl+Tab removes indentation for the whole file unless a certain part is selected.
