@@ -13,6 +13,9 @@ Run File-
     python3 ./gui.py
  
 ## Features
-* this
-* that
-* also that
+* Delay - Changing delay time using delay select box to wait before the text is autotyped.
+* Cancel - Cancel the autotype process instantly using cancel button
+* Typerwriter mode - Toggle it on to simulate as if each character is being written instead of autotyping whole text at once instantly.
+* Keyboard Shortcuts - Shortcuts include undo,redo,select all and remove indent features .
+
+### Keyboard Shortcuts
