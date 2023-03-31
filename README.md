@@ -4,4 +4,4 @@ BruteCopy - An <ins>autotyper</ins> made in Python with additonal features and m
 ![BruteCopy on Linux](https://github.com/slaygun/BruteCopy-AutoTyper/blob/master/screenshots/brutecopyonlinux.png)
 
 ## Setup
-`pip install -r requirements.txt`
+    pip install -r requirements.txt
