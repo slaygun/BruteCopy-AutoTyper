@@ -64,6 +64,7 @@ class App(customtkinter.CTk):
         self.textbox.bind("<Control-z>", self.undo)
         self.textbox.bind('<Control-y>',self.redo)
         self.textbox.bind('<Control-a>', self.select_all)
+        self.textbox.bind('<Control-x>', quit)
 
 
     def callback(self):
