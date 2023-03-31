@@ -7,8 +7,12 @@ BruteCopy - An <ins>autotyper</ins> made in Python with additonal features and m
 Installing required modules-
 
     pip install -r requirements.txt
-Run gui.py file -
+Run File-
 
+    cd BruteCopy-AutoTyper
     python3 ./gui.py
  
 ## Features
+* this
+* that
+* also that
