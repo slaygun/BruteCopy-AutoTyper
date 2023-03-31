@@ -25,3 +25,9 @@ Run File-
 
 ### Keyboard Shortcuts
 
+| Key        | Function           |  
+| ------------- |:-------------:| 
+| Ctrl+Z | Undo | 
+| Ctrl+Y | Redo |   
+| Ctrl+A | Select All|
+| Ctrl+Tab | Remove Indentation (If text selected only removes for that part otherwise removes for whole text)|
